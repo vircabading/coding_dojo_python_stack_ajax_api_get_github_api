@@ -14,7 +14,7 @@ def root():
 
 # //// UTILITIES /////////////////////////////////
 
-@api.route('/get_github')
+@app.route('/get_github')
 def get_github():
     pass
 
