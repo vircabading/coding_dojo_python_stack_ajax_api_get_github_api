@@ -1,5 +1,5 @@
 from flask_app import app                                               # App is used to handle routes
-from flask import render_template, session, redirect, request
+from flask import render_template, session, redirect, request, jsonify
 
 # ////////////////////////////////////////////////////////
 # ROOT CONTROLLER
